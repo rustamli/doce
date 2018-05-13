@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "Turan Rustamli",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rustamli/doce.git"
+  },
   "dependencies": {
     "glob": "^7.1.2",
     "handlebars": "^4.0.11",
