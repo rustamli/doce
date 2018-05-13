@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Turan Rustamli",
   "license": "MIT",
+  "bin": {
+    "doce": "./bin/main.js"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:rustamli/doce.git"
