@@ -40,6 +40,12 @@ Navigate to the directory with `doce.cong.json` and run:
 doce
 ```
 
+To run one time templating use:
+
+```
+doce once
+```
+
 `Ctrl` + `C` to stop the **doce** process
 
 
